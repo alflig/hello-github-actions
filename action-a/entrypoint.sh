@@ -1,0 +1,1 @@
+ENTRYPOINT ["echo $GITHUB_SHA"]
